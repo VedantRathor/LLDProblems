@@ -10,4 +10,16 @@ public class Movie {
         this.movieName = movieName;
         this.duration = duration;
     }
+
+    public Integer getMovieId() {
+        return movieId;
+    }
+
+    public String getMovieName() {
+        return movieName;
+    }
+
+    public Integer getDuration() {
+        return duration;
+    }
 }
