@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Design pizza with decorator running fine....");
         Pizza margheritha = new Margeritha();
         Pizza finalPizza = new Sauce(margheritha);
+
         System.out.println(finalPizza.getDescription());
     }
 }
