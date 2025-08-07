@@ -10,7 +10,6 @@ public class NormalParkingStrategy implements ParkingStrategy {
                 return i;
             }
         }
-
         throw new RuntimeException("no parking spot");
     }
 }
