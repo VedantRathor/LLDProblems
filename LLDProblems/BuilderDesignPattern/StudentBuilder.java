@@ -36,7 +36,7 @@ public abstract class StudentBuilder {
     }
 
     public Integer getRollNumber() {
-        return rollNumber;
+        return this.rollNumber;
     }
 
     public String getName() {

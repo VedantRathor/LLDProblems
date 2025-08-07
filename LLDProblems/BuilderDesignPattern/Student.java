@@ -26,6 +26,5 @@ public class Student {
         for (String subject: subjectList) {
             System.out.print(subject + " ");
         }
-        return;
     }
 }
