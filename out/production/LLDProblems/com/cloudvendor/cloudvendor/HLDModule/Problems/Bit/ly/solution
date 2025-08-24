@@ -1,0 +1,3 @@
+Delivery Framework:
+Requirement -> core entities -> API/Interface -> Data flow -> HLD (to serve core functionality)
+-> Deep Dive (to serve non-functional requirement)
