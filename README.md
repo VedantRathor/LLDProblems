@@ -40,7 +40,6 @@ This repository can be used by:
 ## 📖 References  
 - *Head First Design Patterns*  
 - *Clean Code by Robert C. Martin*
-- 
 ---
 
 ⚡ **Contributions are welcome!** Feel free to fork, raise issues, or submit PRs.  
